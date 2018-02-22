@@ -1,0 +1,8 @@
+mean: 439. 
+max: 6046. 
+min: 103. 
+median: 208. 
+lookup: 3977. 
+insert: 506. 
+delete: 517. 
+total_operation: 5000. 

@@ -1,0 +1,3 @@
+/Users/kehan/Desktop/multicore_lab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kehan/Desktop/multicore_lab2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kehan/Desktop/multicore_lab2/cmake-build-debug/CMakeFiles/multicore_lab2.dir

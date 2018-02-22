@@ -1,0 +1,6 @@
+Implemented a ThreadSafeKVStore and ThreadSafeListenerQueue with POSIX threads. 
+
+
+1. Enter the directory of main.cpp.
+2. Type command “make”
+3. For example type command “./lab1 -n 10” (create 10 threads)
